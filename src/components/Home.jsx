@@ -36,6 +36,7 @@ function Home() {
   return data ? (
     <Fade>
       <div style={styles.mainContainer}>
+        <img src="./images/profile.jpg" alt="profilepic" style={{ borderRadius: '50%', width: '100px', height: '100px' }} />
         <h1 style={styles.nameStyle}>{data?.name}</h1>
         <div style={{ flexDirection: 'row' }}>
           <h2 style={styles.inlineChild}>I&apos;m&nbsp;</h2>

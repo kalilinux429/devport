@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Web-Developer",
             "subtitle": "XYZ Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Projects: Ecommerce Alliance, Food delivery",
+                "work for client"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Nov 2020 To July 2022"
         },
         {
-            "title": "Software Engineer",
+            "title": "React Js Consultant",
             "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "workType": "Full-Time",
             "workDescription": [
-                "Worked on abc."
+                "Projects: Vinci Application,PLan Travel"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "July 2022 To july 2023"
         },
         {
-            "title": "App Developer",
+            "title": "FreeLancer",
             "subtitle": "ABC Pvt Ltd",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Work as freelance with developer made Project React Js, MongoDb,Express js.",
+                " Expense Tracker, Task Mangment."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Carrier-Gap"
         }
     ]
 }

@@ -5,22 +5,13 @@
             "title": "Languages & Databases",
             "items" : [
      
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
+               
+              
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
+              
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
@@ -29,27 +20,41 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
+            
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
+                    "icon": "images/skills/redux.png",
+                    "title": "Redux"
+                },
+                {
+                    "icon": "images/skills/Nextjs.png",
+                    "title": "Next js"
+                },
+                {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
+                
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
@@ -57,7 +62,12 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/jwt.png",
+                    "title": "JWT"
                 }
+               
             ]
     }
 ]}
