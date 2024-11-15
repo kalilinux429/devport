@@ -42,7 +42,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "fix": "npm install --legacy-peer-deps && npm audit fix --force"
+    "fix": "npm install --legacy-peer-deps && npm audit fix --force",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
